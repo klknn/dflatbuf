@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"klknn"
+	],
+	"copyright": "Copyright © 2025, klknn",
+	"description": "Flatbuffers for D language.",
+	"license": "BSL-1.0",
+	"name": "flatbuffers-d"
+}
