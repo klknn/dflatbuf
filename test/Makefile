@@ -7,3 +7,6 @@ flatc: flatc.zip
 # https://flatbuffers.dev/flatc/
 monsterdata.bin: monsterdata.json
 	./flatc --binary monster.fbs monsterdata.json
+
+monsterdata_simple.bin: monsterdata_simple.json
+	./flatc --binary monster.fbs monsterdata_simple.json
